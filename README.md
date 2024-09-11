@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, my name is Alexandr Yakovlev
 
-<!--
-**can4k-hse/can4k-hse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Let me tell you something about myself
 
-Here are some ideas to get you started:
+#### I study at National Research University Higher School of Economics, my direction is Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I have some skils in programming o_O
+- vanil C++ 20
+- python basis
+- advanced JS (vue.js, nest.js, express, ts)
+- trying to become a proffesional C# developer <-- sounds perfect
+
+> also I have some skills in algorithms and data structures, btw codeforces expert :)
+
+--- 
+```my main account is Can4k, you can research my perfect projects -_-```
