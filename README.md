@@ -8,7 +8,7 @@
 - vanil C++ 20
 - python basics
 - advanced JS (vue.js, nest.js, express, ts)
-- becoming a proffesional C# developer
+- becoming a software engineer
 
 > have skills in algorithms and data structures; codeforces expert :)
 > 
