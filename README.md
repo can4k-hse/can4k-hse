@@ -1,16 +1,8 @@
-## Hi, my name is Alexandr Yakovlev
+## Hi, my name is Alexandr Iakovlev
 
-> Let me tell you something about myself
+ - I study at NRU HSE, my major is Software Engineering
+ - Yandex Team employee
+ - Codeforces Expert
 
-#### I study at National Research University Higher School of Economics, my major is Software Engineering
-
-> I have some skils in programming o_O
-- vanil C++ 20
-- python basics
-- advanced JS (vue.js, nest.js, express, ts)
-- becoming a software engineer
-
-> have skills in algorithms and data structures; codeforces expert :)
-> 
---- 
+---
 ```my main account is Can4k, you can research my perfect projects -_-```
